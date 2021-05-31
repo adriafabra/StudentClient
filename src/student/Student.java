@@ -17,10 +17,7 @@ import java.util.Scanner;
 import org.netbeans.saas.root.Rootwe;
 import org.netbeans.saas.RestResponse;
 
-/**
- *
- * @author adri
- */
+
 public class Student {
 
     /**
